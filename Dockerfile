@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/k8s-dns-dnsmasq-nanny:latest
+FROM k8s.gcr.io/k8s-dns-dnsmasq-nanny:1.15.6
